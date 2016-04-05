@@ -140,4 +140,76 @@ return [
         'Jeśli śpisz więcej niż 6 godzin, to śpij szybciej.',
         'Arnold Schwarzenegger'
     ],
+    [
+        'Aby marzenie mogło się spełnić, <br />najpierw musisz zacząć marzyć.',
+        'Brian Tracy'
+    ],
+    [
+        'Aby odnieść sukces w twojej, lub w jakiejkolwiek dziedzinie, <br />musisz przez całe życie się uczyć.',
+        'Brian Tracy'
+    ],
+    [
+        'Jeżeli w twoim życiu jest coś, czego nie znosisz,<br />sam powinieneś to zmienić. Jesteś panem samego siebie',
+        'Brian Tracy'
+    ],
+    [
+        'Twój charakter jest twoim najważniejszym atutem,<br />dlatego powinieneś nad sobą pracować przez całe życie.',
+        'Brian Tracy'
+    ],
+    [
+        'Jakość naszego życia sprowadza się do jakości<br />naszych związków z innymi ludźmi.',
+        'Anthony Robbins'
+    ],
+    [
+        'Prawdziwa decyzja jest mierzona poprzez fakt podjęcia nowego działania. Jeśli nie ma działania – tak naprawdę nie podjąłeś decyzji.',
+        'Anthony Robbins'
+    ],
+    [
+        'Twój los kształtuje się w momentach podejmowania decyzji.',
+        'Anthony Robbins'
+    ],
+    [
+        'Tylko ci, którzy nauczyli się potęgi szczerego i bezinteresownego wkładu w życie innych, doświadczają największej radości życia – prawdziwego poczucia spełnienia.',
+        'Anthony Robbins'
+    ],
+    [
+        'Nie uznaję niemożliwości.',
+        'Henry Ford'
+    ],
+    [
+        'Więcej ludzi marnuje czas i energię roztrząsając problemy<br />niż rzeczywiście próbując je rozwiązać.',
+        'Henry Ford'
+    ],
+    [
+        'Wstań i walcz – jałmużna dla niedołęgów.',
+        'Henry Ford'
+    ],
+    [
+        'Wszystko można robić lepiej, niż robi się dzisiaj.',
+        'Henry Ford'
+    ],
+    [
+        'Życie jest ciągiem doświadczeń, z których każde czyni nas silniejszymi, mimo że czasem trudno nam to sobie uświadomić.',
+        'Henry Ford'
+    ],
+    [
+        'Głos opinii publicznej nie jest substytutem myślenia.',
+        'Warren Buffett'
+    ],
+    [
+        'Lepiej częściowo mieć rację, niż całkowicie się mylić.',
+        'Warren Buffett'
+    ],
+    [
+        'Na swoją dobrą opinię musimy pracować 20 lat.<br />Wystarczy pięć minut, by ją utracić.',
+        'Warren Buffett'
+    ],
+    [
+        'Ryzyko bierze się z niewiedzy o tym co robisz.',
+        'Warren Buffett'
+    ],
+    [
+        'W swoim życiu musisz tylko kilka rzeczy zrobić dobrze,<br />pod warunkiem, że nie robisz zbyt wielu rzeczy źle.',
+        'Warren Buffett'
+    ],
 ];

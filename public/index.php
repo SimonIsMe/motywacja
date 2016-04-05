@@ -32,7 +32,7 @@
         </div>
         <footer>
             Autorem zdjęcia jest <a href="https://www.flickr.com/photos/q120/9692831755">Marie Sahlén</a>.
-            | Mamy <?php echo count($array); ?> cytatów. <a href="mailto:szym1991@gmail.com">Kontakt</a>
+            | Mamy <?php echo count($array); ?> cytaty. <a href="mailto:szym1991@gmail.com">Kontakt</a>
         </footer>
     </body>
 </html>
