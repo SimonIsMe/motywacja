@@ -212,4 +212,32 @@ return [
         'W swoim życiu musisz tylko kilka rzeczy zrobić dobrze,<br />pod warunkiem, że nie robisz zbyt wielu rzeczy źle.',
         'Warren Buffett'
     ],
+    [
+        'Aby więcej zarabiać, musisz się więcej nauczyć',
+        'Brian Tracy'
+    ],
+    [
+        'Życie to jest następne pięć minut (...)<br/>Reszta to wyobraźnia.',
+        'Sławomir Mrożek'
+    ],
+    [
+        'Nie płacz nad czymś, co nie płacze nas tobą.',
+        'Sławomir Mrożek'
+    ],
+    [
+        'Są tylko dwa sposoby przejścia przez życie.<br />Jeden, jakby nic nie było cudem,<br />i drugi, jakby wszystko było cudem.',
+        'Albert Einstein'
+    ],
+    [
+        'Wyobraźnia bez wiedzy może stworzyć rzeczy piękne.<br />Wiedza bez wyobraźni najwyżej doskonałe.',
+        'Albert Einstein'
+    ],
+    [
+        'Wyobraźnia jest ważniejsza niż wiedza, bo choć wiedza wskazuje na to, co jest, wyobraźnia wskazuje na to, co będzie.',
+        'Albert Einstein'
+    ],
+    [
+        'Większość marzeń wymaga ciężkiej pracy, poświęcenia i przygotowania. Jeśli Twoje tego nie wymagają,<br />to Twoje marzenia są za małe.',
+        'Kim Kiyosaki'
+    ]
 ];
