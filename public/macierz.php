@@ -1,4 +1,10 @@
 <meta charset="utf-8" />
+Wpisz macierz, np.<br />
+<pre>
+    1,2,3
+    4,5,6
+    7,8,9
+</pre>
 <form method="get" action="./macierz.php">
     <textarea name="matrix" cols="50" rows="10"><?php echo $_GET['matrix'] ?></textarea>
     <input type="submit" />
